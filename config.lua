@@ -8,7 +8,7 @@ OPH3Z = {
     DrawText = '[E] Dolap', -- DrawText
 
     [1] = {
-        wardrobes = { -- Pinkcake
+        wardrobes = { -- Pinkcage
             [1] = { wardrobe = vector3(302.58, -207.35, 54.22) },
             [2] = { wardrobe = vector3(306.32, -197.45, 54.22) },
             [3] = { wardrobe = vector3(321.79, -189.81, 54.22) },
