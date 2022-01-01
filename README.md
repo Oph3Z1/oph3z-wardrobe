@@ -1,7 +1,8 @@
 # oph3z-wardrobe
 
 ## Features
-- works with qb-clothing
+- Works with qb-clothing
+- Works with ESX
 
 ## Information
 - There is no extra feature of a normal wardrobe system.
